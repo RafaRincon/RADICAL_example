@@ -28,7 +28,7 @@ Lets study every line:
 `TREECOMMAND` is a string of parameters input to either paup or RAxML.  
 `T` Number of threads.  
  `m` Substitution model.  
- `N` Number of generations.
+ `N` Number of generations.  
  `CONTREECOMMAND=contree all/ majrule=yes grpfreq=yes  `  
 `CONTREECOMMAND`is the paup consensus tree command string.  
 `MAXTREES=200  `  

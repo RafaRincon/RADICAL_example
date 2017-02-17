@@ -13,7 +13,7 @@ make sure this files are on /mypath/mydir
 
 This is an example of config file   
 **config.ml.example**  
-`TREECOMMAND=-T 1 -m PROTGAMMAJTTF -f d -N 1  `  
+`TREECOMMAND=-T 1 -m PROTGAMMAJTTF -f d -N 1 -p 1  `  
 `CONTREECOMMAND=contree all/ majrule=yes grpfreq=yes  `    
 `MAXTREES=200    `  
 `SAMPLES=2  `  
